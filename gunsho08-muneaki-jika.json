@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/muneaki-jikaawase",
  "yomi": "とよはらのむねあきじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（五十番・名所題）",
+  "era": "明応9年（1500）1月23日（判）",
+  "author": "豊原統秋（自撰）",
+  "desc": "楽人豊原統秋が音羽河・高砂・三輪山など名所を題とする自詠を五十番に番えた自歌合。判者は折句・沓冠などの歌を添えて評を記し、末尾に「御判」とある。"
+ },
  "editions": [
   {
    "pid": "1879502",
